@@ -15,7 +15,7 @@ name                     : &name "Norris Davis III"
 description              : &description "PhD Candidate in Political Science at UC Berkeley"
 url                      : https://nldavis1.github.io
 baseurl                  : ""
-repository               : "nldavis1/norrisdavisiii.github.io"
+repository               : "nldavis1/nldavis1.github.io"
 
 author:
   avatar           : "profile.png"
