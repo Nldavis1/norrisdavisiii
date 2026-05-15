@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Norris [Last Name]"
+title                    : "Norris Davis III"
 title_separator          : "-"
-name                     : &name "Norris [Last Name]"
+name                     : &name "Norris Davis III"
 description              : &description "PhD Candidate in Political Science at UC Berkeley"
-url                      : https://[your-github-username].github.io
+url                      : https://nldavis1.github.io
 baseurl                  : ""
-repository               : "[your-github-username]/[your-github-username].github.io"
+repository               : "nldavis1/norrisdavisiii.github.io"
 
 author:
   avatar           : "profile.png"
