@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Norris Davis III"
 description              : &description "PhD Candidate in Political Science at UC Berkeley"
 url                      : https://nldavis1.github.io
-baseurl                  : ""
-repository               : "nldavis1/nldavis1.github.io"
+baseurl                  : "/norrisdavisiii"
+repository               : "nldavis1/norrisdavisiii"
 
 author:
   avatar           : "profile.png"
